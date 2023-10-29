@@ -1,4 +1,5 @@
-pandas
-numpy
-selenium
-tqdm
+pip install pandas
+pip install numpy
+pip install selenium openpyxl
+pip install tqdm
+pip install konlpy scikit-learn
